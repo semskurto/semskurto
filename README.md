@@ -4,7 +4,7 @@
 <h1 align="center"> I'm Şems</h1>
 <h3 align="center">A passionate software developer</h3>
 
-- 🔭 I’m currently working(frelance) on [Datamarkin](https://datamarkin.com/)
+- 🔭 I’m currently working freelance
 
 - 👯 I’m looking to collaborate on [Obee](https://express.adobe.com/page/JMhx9fATQE1aP/)
 
