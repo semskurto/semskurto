@@ -2,7 +2,7 @@
 
 
 <h1 align="center"> I'm Shams ($ems)</h1>
-
+* I use my profile mainly to store codes. I publish my experimental and open source startup projects. I need to spend time on more sample projects but if I can find time I would like to spend time on Obee and other different projects. I hope we will have the opportunity to work on joint projects. Thank you.
 - 🔭 I’m currently working freelance
 
 - 👯 I’m looking to collaborate on [Obee](https://express.adobe.com/page/JMhx9fATQE1aP/)
