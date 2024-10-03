@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<h1 align="center"> I'm Şems</h1>
+<h1 align="center"> I'm Shams ($ems)</h1>
 
 - 🔭 I’m currently working freelance
 
