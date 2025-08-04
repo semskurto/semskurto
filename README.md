@@ -80,12 +80,6 @@ Developed a modular IoT system for preventing crop diseases by transferring and 
 - **Tech Stack:** MQTT, RTSP, Raspberry Pi, SQLite, PyQt, Linux, TensorFlow
 - [Project Showcase](https://express.adobe.com/page/JMhx9fATQE1aP/)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=semskurto&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=semskurto&theme=tokyonight" alt="GitHub Streak" />
-</div>
 
 ## 🔗 Connect With Me
 
